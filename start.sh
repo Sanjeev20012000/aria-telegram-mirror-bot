@@ -1,3 +1,1 @@
-npm install
-./aria.sh; python3 -m bot
-npm start
+chmod +x aria.sh && npm install && tsc && ./aria.sh && npm start
