@@ -7,7 +7,7 @@ Hit the deploy to heroku button and follow the further instructions in the scree
 
 **NB: This may lead to the suspension of your heroku account so deploy at your own risk.**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mangpa444/aria-telegram-mirror-bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sanjeev20012000/aria-telegram-mirror-bot/tree/master)
 ## Limitations
 
 This bot is meant to be used in small, closed groups. So, once deployed, it only works in whitelisted groups.
