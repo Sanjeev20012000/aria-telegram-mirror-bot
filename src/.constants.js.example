@@ -25,4 +25,4 @@ module.exports = Object.freeze({
     NAME: "@nameOf_bot"
   },
   IS_TEAM_DRIVE: false
-});
+}); 
