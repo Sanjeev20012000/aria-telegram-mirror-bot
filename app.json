@@ -12,7 +12,7 @@
   "repository": "https://github.com/anandpskerala/Nodejsbot",
   "website": "https://github.com/out386/aria-telegram-mirror-bot/blob/master/README.md",
   "success_url": "https://github.com/out386/aria-telegram-mirror-bot",
-  "stack": "container"
+  "stack": "container",
 
   "buildpacks": [
     {
