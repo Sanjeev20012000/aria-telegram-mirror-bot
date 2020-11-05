@@ -13,4 +13,12 @@
   "website": "https://github.com/out386/aria-telegram-mirror-bot/blob/master/README.md",
   "success_url": "https://github.com/out386/aria-telegram-mirror-bot",
   "stack": "container"
-  }
+
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-apt"
+    },
+    { "url": "https://github.com/heroku/heroku-buildpack-nodejs#v83"
+    }
+  ]
+}
