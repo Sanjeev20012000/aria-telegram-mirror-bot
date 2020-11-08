@@ -1,6 +1,6 @@
 module.exports = Object.freeze({
   TOKEN: '1318713694:AAF3Hgfe-CPRGrPX1b6c3sZrWAf4Rl4fm1o',
-  ARIA_SECRET: 'aRSyZAsWwlE0ueRHoJkZxH57',
+  ARIA_SECRET: 'mirrortar',
   ARIA_DOWNLOAD_LOCATION: '/home/downloads',
   ARIA_DOWNLOAD_LOCATION_ROOT: '/home',  //The mountpoint that contains ARIA_DOWNLOAD_LOCATION
   ARIA_FILTERED_DOMAINS: ['goy'], // Prevent downloading from URLs containing these substrings
